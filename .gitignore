@@ -1,0 +1,9 @@
+# Ignore profile_pics and site.db
+/flaskblog/static/profile_pics
+/flaskblog/site.db
+/myprojectenv
+/myprojectenv/*
+/myproject.sock
+/wsgi.py
+/myproject.int
+/__pycache__
