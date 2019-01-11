@@ -5,4 +5,3 @@ Flask==1.0.2
 WTForms==2.2.1
 Flask_Bcrypt==0.7.1
 Pillow==5.4.1
-secrets==1.0.2
