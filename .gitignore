@@ -5,6 +5,6 @@
 /myprojectenv/*
 /myproject.sock
 /wsgi.py
-/myproject.int
+/myproject.ini
 /__pycache__
 /flaskblog/__pycache__
